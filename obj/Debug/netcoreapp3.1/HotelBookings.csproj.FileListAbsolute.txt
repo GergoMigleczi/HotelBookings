@@ -1,0 +1,13 @@
+/Users/migleczigergo/Projects/HotelBookings/bin/Debug/netcoreapp3.1/HotelBookings.deps.json
+/Users/migleczigergo/Projects/HotelBookings/bin/Debug/netcoreapp3.1/HotelBookings.runtimeconfig.json
+/Users/migleczigergo/Projects/HotelBookings/bin/Debug/netcoreapp3.1/HotelBookings.runtimeconfig.dev.json
+/Users/migleczigergo/Projects/HotelBookings/bin/Debug/netcoreapp3.1/HotelBookings.dll
+/Users/migleczigergo/Projects/HotelBookings/bin/Debug/netcoreapp3.1/HotelBookings.pdb
+/Users/migleczigergo/Projects/HotelBookings/obj/Debug/netcoreapp3.1/HotelBookings.csproj.AssemblyReference.cache
+/Users/migleczigergo/Projects/HotelBookings/obj/Debug/netcoreapp3.1/HotelBookings.GeneratedMSBuildEditorConfig.editorconfig
+/Users/migleczigergo/Projects/HotelBookings/obj/Debug/netcoreapp3.1/HotelBookings.AssemblyInfoInputs.cache
+/Users/migleczigergo/Projects/HotelBookings/obj/Debug/netcoreapp3.1/HotelBookings.AssemblyInfo.cs
+/Users/migleczigergo/Projects/HotelBookings/obj/Debug/netcoreapp3.1/HotelBookings.csproj.CoreCompileInputs.cache
+/Users/migleczigergo/Projects/HotelBookings/obj/Debug/netcoreapp3.1/HotelBookings.dll
+/Users/migleczigergo/Projects/HotelBookings/obj/Debug/netcoreapp3.1/HotelBookings.pdb
+/Users/migleczigergo/Projects/HotelBookings/obj/Debug/netcoreapp3.1/HotelBookings.genruntimeconfig.cache
